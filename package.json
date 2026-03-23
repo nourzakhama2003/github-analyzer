@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "GitHub Repository Intelligence Analyzer - Analyzes repos for activity, complexity, and learning difficulty",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
